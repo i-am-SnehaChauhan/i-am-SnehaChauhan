@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Chauhan</h1>
 <h3 align="center">A passionate software developer. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner and love to laugh, read, and run.</h3>
+<img align="right" alt="Codin" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-snehachauhan" alt="i-am-snehachauhan" /></a> </p>
-<img align="right" alt="Codin" width="200" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 - 🔭 I’m currently working on **MERN projects**
 
