@@ -1,4 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sneha Chauhan</h1>
+<div align="center">
+  <img height="190" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=i-am-SnehaChauhan.i-am-SnehaChauhan&" />
+</div>
+
+###
 <h3 align="center">A passionate software developer. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner and love to laugh, read, and run.</h3>
 <img align="right" alt="Codin" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
