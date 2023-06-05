@@ -47,7 +47,7 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using Mern Stack. 
+| [My Portfolio Website](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using HTML, CSS and Javascript. 
 | [UMatter](https://github.com/i-am-SnehaChauhan/UMatter.git)   | UMatter, an inclusive platform designed to help individuals quit bad habits by providing personalized sessions and one-on-one consultations with professionals.   | 
 | [Spotify Clone](https://github.com/i-am-SnehaChauhan/Spotify_Clone.git)     | Spotify clone App built with HTML CSS and Javascript. |
 | [To Do list App](https://github.com/i-am-SnehaChauhan/ToDoList.git)    | To Do list App build using Mern Stack.
