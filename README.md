@@ -49,9 +49,11 @@
 | :---:        |    :----   |  
 | [My Portfolio Website](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using HTML, CSS and Javascript. 
 | [UMatter](https://github.com/i-am-SnehaChauhan/UMatter.git)   | UMatter, an inclusive platform designed to help individuals quit bad habits by providing personalized sessions and one-on-one consultations with professionals.   | 
+| [Pryde](https://github.com/i-am-SnehaChauhan/Pryde)     | Pryde is a safe and inclusive space designed for the LGBTQ+ community to learn and talk about sexual health powered by NLP and Azure technologies.
 | [Spotify Clone](https://github.com/i-am-SnehaChauhan/Spotify_Clone.git)     | Spotify clone App built with HTML CSS and Javascript. |
 | [To Do list App](https://github.com/i-am-SnehaChauhan/ToDoList.git)    | To Do list App build using Mern Stack.
 | [Diamond-Digger](https://github.com/i-am-SnehaChauhan/Game1.git)     | Endless runner game build using C# on unity.
+
 
 
 
