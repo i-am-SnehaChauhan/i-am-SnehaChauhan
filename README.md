@@ -48,7 +48,7 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using HTML, CSS and Javascript.|
-| [BookLab](https://github.com/i-am-SnehaChauhan/travel-safe)   | Travel Safe is dedicated to empowering women's safety during their travels. By incorporating the virtual connection feature of Faking Video Call incorporated realistic Display.| 
+| [TravelSafe](https://github.com/i-am-SnehaChauhan/travel-safe)   | Travel Safe is dedicated to empowering women's safety during their travels. By incorporating the virtual connection feature of Faking Video Call incorporated realistic Display.| 
 | [BookLab](https://github.com/i-am-SnehaChauhan/book_lab.git)   | BookLab is a web application built using React and Google Books API to provide users with a seamless and intuitive book search experience.| 
 | [UMatter](https://github.com/i-am-SnehaChauhan/UMatter.git)   | UMatter, an inclusive platform designed to help individuals quit bad habits by providing personalized sessions and one-on-one consultations with professionals.   | 
 | [Pryde](https://github.com/i-am-SnehaChauhan/Pryde)     | Pryde is a safe and inclusive space designed for the LGBTQ+ community to learn and talk about sexual health powered by NLP and Azure technologies.
