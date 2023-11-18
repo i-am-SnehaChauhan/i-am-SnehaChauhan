@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha Chauhan</h1>
+
 <div align="center">
   <img height="190" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2a41c0109850037.5fdcf9ab82746.gif"  />
 </div>
-
-###
 
 <div align="center">
 </div>
@@ -14,7 +13,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=i-am-SnehaChauhan.i-am-SnehaChauhan&" />
 </div>
 
-###
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="center">A passionate software developer. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner and love to laugh, read, and run.</h3>
 <img align="right" alt="Codin" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
@@ -56,7 +57,8 @@
 | [To Do list App](https://github.com/i-am-SnehaChauhan/ToDoList.git)    | To Do list App build using Mern Stack.
 | [Diamond-Digger](https://github.com/i-am-SnehaChauhan/Game1.git)     | Endless runner game build using C# on unity.
 
-
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-snehachauhan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="i-am-snehachauhan" /></p>
