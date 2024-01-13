@@ -25,6 +25,7 @@
 - 🌱 I’m currently learning **React Native,**
 
 - ⚡ Fun fact **I think I am funny.**
+  
 
  <h1 align="center">Let's Get Connected</h1>
 <p align="left">
