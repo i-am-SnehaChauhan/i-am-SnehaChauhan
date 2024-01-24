@@ -9,15 +9,10 @@
 </div>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <h3 align="center">A passionate software developer. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner and love to laugh, read, and run.</h3>
-
 - 🔭 I’m currently working on **MERN projects**
-
 - 🌱 I’m currently learning **React Native,**
-
 - ⚡ Fun fact **I think I am funny.**
-
  <h1 align="center">Let's Get Connected</h1>
 <p align="center">
 <a href="https://linkedin.com/in/sneha-chauhan-986a21213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-chauhan-986a21213" height="30" width="40" /></a>
