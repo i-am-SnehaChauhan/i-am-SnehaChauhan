@@ -36,6 +36,7 @@
 </p>
 
 <h1 align="center">Projects</h1>
+
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using HTML, CSS and Javascript.|
