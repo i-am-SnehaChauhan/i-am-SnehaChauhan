@@ -53,7 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-snehachauhan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="i-am-snehachauhan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-snehachauhan&show_icons=true&locale=en&theme=tokyonight" alt="i-am-snehachauhan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-snehachauhan&&theme=tokyonight" alt="i-am-snehachauhan" /></p>
-
-
-
-
