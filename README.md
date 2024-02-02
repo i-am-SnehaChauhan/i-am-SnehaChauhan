@@ -33,7 +33,6 @@
   <a><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"height="40" width="72" alt="canva logo"/></a>
   <a><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"height="40" width="72" alt="canva logo"/></a>
 
-  
 </p>
 
 <h1 align="center">Projects</h1>
