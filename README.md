@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=i-am-SnehaChauhan.i-am-SnehaChauhan&" />
 </div>
+
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">A passionate software developer. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner and love to laugh, read, and run.</h3>
