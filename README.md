@@ -38,7 +38,8 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using HTML, CSS and Javascript.|
-| [EventStackHub](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using HTML, CSS and Javascript.|
+| [EventStackHub](https://github.com/i-am-SnehaChauhan/eventstackhub) | Comprehensive application using Next.js 14, serving as a hub for discovering events.
+|
 | [NoCotine](https://github.com/i-am-SnehaChauhan/no-cotine) | Personalized plans, progress tracking, community support. Your journey to a tobacco-free life starts here!|
 | [TransCare](https://github.com/i-am-SnehaChauhan/SNEHA-CHAUHAN.git) | Portfolio website build using HTML, CSS and Javascript.|
 | [TravelSafe](https://github.com/i-am-SnehaChauhan/travel-safe)   | Travel Safe is dedicated to empowering women's safety during their travels. By incorporating the virtual connection feature of Faking Video Call incorporated realistic Display.| 
